@@ -1,1 +1,1 @@
-NODE_ENV=production /usr/local/bin/forever start index.js
+/usr/local/bin/forever index.js --production
